@@ -1,5 +1,4 @@
 leetcode
-smog check
 replace battery
 workout
 fix bugs
